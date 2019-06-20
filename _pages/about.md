@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fundamental Understanding and Intuitions of AI techniques"
+title: "Fundamental Understanding and Intuitions for AI"
 excerpt: ""
 author_profile: true
 redirect_from:
