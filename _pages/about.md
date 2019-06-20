@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Top navigation bar config: _data/navigation.yml -->
 
-
-About
-======
 I enjoy thinking about the fundamentals and theories that underpin AI techniques, especially
 in terms of information theory. I will post articles that describe AI techniques in this light, in the hope that my perspective might help build intuitions and give a better understanding of some dense approaches in AI .
 
@@ -20,7 +18,7 @@ If you'd like to know more about me, please check out my CV.
 
 Just Getting started
 ======
-I just made this site, so give me a few days before you'll see some substantive content.
+I just made this site, so give me a few days and then you'll see some substantive content.
 
 <!--
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
