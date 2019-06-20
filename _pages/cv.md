@@ -13,9 +13,10 @@ I'm a phd student at Arizona State University in the [Yochan](https://yochan-lab
 My work focuses on [Automated Planning](https://en.wikipedia.org/wiki/Automated_planning_and_scheduling),
 [Active Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)). I am currently working on some interesting approaches to applying Neural Networks to Automated Planning.
 
-[Curriculum Vitae](/Sriram_CV_June2019.pdf)
+[Curriculum Vitae](https://marirsg2.github.io/Sriram_Unravel/files/paper1.pdf)
 
 {% include base_path %}
+
 <!--
 Education
 ======
