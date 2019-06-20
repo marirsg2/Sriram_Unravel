@@ -14,7 +14,7 @@ My work focuses on [Automated Planning](https://en.wikipedia.org/wiki/Automated_
 [Active Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)). I am currently working on some interesting approaches to applying Neural Networks to Automated Planning.
 
 [Curriculum Vitae](/Sriram_CV_June2019.pdf)
-
+<!--
 {% include base_path %}
 
 Education
@@ -64,4 +64,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
