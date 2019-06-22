@@ -14,13 +14,11 @@ I enjoy visualizing and understanding the theories that underpin AI techniques, 
 in terms of information theory. I work on Automated Planning, and Human-AI collaboration. My current research focuses on Active Learning and (separately) Graph Embeddings. If you'd like to know more about me, please check out my CV.
 
 <!-- I will post articles that describe AI techniques in this light, in the hope that my perspective might help build intuitions and give a better understanding of some dense approaches in AI . -->
-
-
-
+<!--
 
 Just Getting started
 ======
-I just made this site, so give me a few days and then you'll see some substantive content.
+I just made this site, so give me a few days and then you'll see some substantive content. -->
 
 <!--
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
