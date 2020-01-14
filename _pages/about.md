@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fundamental Understanding and Intuitions for AI"
+title: "Better research comes from a more fundamental understanding of AI techniques"
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -15,11 +15,11 @@ in terms of information theory. I work on Automated Planning, and Human-AI colla
 
 <!-- I will post articles that describe AI techniques in this light, in the hope that my perspective might help build intuitions and give a better understanding of some dense approaches in AI . -->
 <!--
-
+<!-- 
 Just Getting started
 ======
 I just made this site, so give me a few days and then you'll see some substantive content. -->
-
+ -->
 <!--
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
