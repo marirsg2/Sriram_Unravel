@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please see my [Google Scholar](https://scholar.google.com/citations?user=So86Wl4AAAAJ&hl=en) page for my publications. I will post hyperlinks on this page shortly.
+Please see my [Google Scholar](https://scholar.google.com/citations?user=So86Wl4AAAAJ&hl=en) page for my publications. 
 
 <!--
 {% if author.googlescholar %}
