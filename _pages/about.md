@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Better research comes from a more fundamental understanding of AI techniques"
+title: "Unravelling AI techniques for a Deeper Understanding"
 excerpt: ""
 author_profile: true
 redirect_from:
