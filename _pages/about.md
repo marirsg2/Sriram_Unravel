@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Unravelling AI techniques for a Deeper Understanding"
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from:
