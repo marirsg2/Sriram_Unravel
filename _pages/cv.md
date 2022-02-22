@@ -10,10 +10,9 @@ redirect_from:
 About Me
 ======
 I'm a phd student at Arizona State University in the [Yochan](https://yochan-lab.github.io/home/) lab under [Dr.Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/)
-My work focuses on [Automated Planning](https://en.wikipedia.org/wiki/Automated_planning_and_scheduling), and 
-[Active Learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)). I am currently working on some interesting approaches that apply Embeddings, and Neural Networks to Automated Planning.
+I work on Automated Planning, and Human-AI interaction. My current research focuses on Human-Aware AI in sequential decision making (planning) problems. My work considers how human cognitive limitations can be incorporated into problem settings and algorithms for better Human-AI interaction.
 
-[Curriculum Vitae](https://marirsg2.github.io/Sriram_Unravel/files/CV_Nov_2020.pdf)
+[Curriculum Vitae](https://marirsg2.github.io/Sriram_Unravel/files/CV_Februrary_2022.pdf)
 
 {% include base_path %}
 
