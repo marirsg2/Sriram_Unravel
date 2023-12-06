@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I work at JP Morgan Chase as an AI Research Scientisit. My research includes problems on company operations, generating synthetic data such as time-series data, and human-AI interaction. 
+I work at JP Morgan Chase as an AI Research Scientist. My research includes problems on company operations, generating synthetic data such as time-series data, and human-AI interaction. 
 I was previously a phd student at Arizona State University in the [Yochan](https://yochan-lab.github.io/home/) lab under [Dr.Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/)
 My primary focus is improving Human-AI interaction in sequential decision making problems. I integrate human biases, cognitive limitations and preferences into reinforcement learning , planning and optimization algorithms. 
 
