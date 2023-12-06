@@ -9,8 +9,9 @@ redirect_from:
 
 About Me
 ======
-I'm a phd student at Arizona State University in the [Yochan](https://yochan-lab.github.io/home/) lab under [Dr.Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/)
-I work on Automated Planning, and Human-AI interaction. My current research focuses on Human-Aware AI in sequential decision making (planning) problems. My work considers how human cognitive limitations can be incorporated into problem settings and algorithms for better Human-AI interaction.
+I work at JP Morgan Chase as an AI Research Scientisit. My research includes problems on company operations, generating synthetic data such as time-series data, and human-AI interaction. 
+I was previously a phd student at Arizona State University in the [Yochan](https://yochan-lab.github.io/home/) lab under [Dr.Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/)
+My primary focus is improving Human-AI interaction in sequential decision making problems. I integrate human biases, cognitive limitations and preferences into reinforcement learning , planning and optimization algorithms. 
 
 [Curriculum Vitae](https://marirsg2.github.io/Sriram_Unravel/files/CV_Sriram.pdf)
 
