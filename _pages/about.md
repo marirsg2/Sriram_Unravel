@@ -10,6 +10,8 @@ redirect_from:
 
 <!-- Top navigation bar config: _data/navigation.yml -->
 
-I work on Automated Planning, and Human-AI interaction. My current research focuses on Human-Aware AI in sequential decision making (planning) problems. My work considers how human cognitive limitations can be incorporated into problem settings and algorithms for better Human-AI interaction. I also enjoy visualizing and understanding the theories that underpin AI techniques, especially in terms of information theory. If you'd like to know more about me, please check out my CV.
+I am an AI research scientist at JP Morgan Chase. My research includes problems on company operations such as task assignment, generating synthetic data such as time-series data, and human-AI interaction. 
+I was previously a phd student at Arizona State University in the [Yochan](https://yochan-lab.github.io/home/) lab under [Dr.Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/)
+My primary focus is improving Human-AI interaction in sequential decision making problems. I integrate human biases, cognitive limitations and preferences into reinforcement learning , planning and optimization algorithms. 
 
 <!-- I will post articles that describe AI techniques in this light, in the hope that the understanding and perspectives shared might help build intuitions and give a better understanding of some dense approaches in AI . -->
