@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /resume/
 author_profile: true
 redirect_from:
-  - /cv
+  - /resume
 ---
 
 [Resume](https://marirsg2.github.io/Sriram_Unravel/files/CV_Sriram.pdf)
