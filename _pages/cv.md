@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Resume](https://marirsg2.github.io/Sriram_Unravel/files/CV_Sriram.pdf)
+[Resume](https://marirsg2.github.io/Sriram_Unravel/files/Resume_11232024.pdf)
 
 
 
