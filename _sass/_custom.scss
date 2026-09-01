@@ -1,0 +1,344 @@
+﻿/* ==========================================================================
+   Custom Enhanced Styling for Sriram Gopalakrishnan's Personal Website
+   Focus: Sequential Decision Making, Human-AI Interaction & Hybrid-Agent Systems
+   ========================================================================== */
+
+/* Hero Section */
+.hero-intro {
+  margin-bottom: 2em;
+  padding: 1.5em;
+  background: #f8fafc;
+  border-left: 4px solid #0284c7;
+  border-radius: 8px;
+}
+
+.lead-bio {
+  font-size: 1.15em;
+  line-height: 1.6;
+  color: #1e293b;
+  margin-bottom: 0.75em;
+}
+
+.tagline {
+  font-size: 1.05em;
+  line-height: 1.6;
+  color: #334155;
+  margin-bottom: 1.25em;
+}
+
+.hero-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6em;
+  margin-top: 1em;
+}
+
+.hero-buttons .btn {
+  margin: 0 !important;
+  font-weight: 500;
+  border-radius: 6px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease-in-out;
+}
+
+.hero-buttons .btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Research Pillars Grid */
+.research-pillars-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5em;
+  margin: 1.5em 0 2.5em 0;
+}
+
+.pillar-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1.5em;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.pillar-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08);
+  border-color: #cbd5e1;
+}
+
+.pillar-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  margin-bottom: 0.75em;
+}
+
+.pillar-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  background: #e0f2fe;
+  color: #0369a1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2em;
+  flex-shrink: 0;
+}
+
+.pillar-card h3 {
+  margin: 0;
+  font-size: 1.2em;
+  color: #0f172a;
+  line-height: 1.3;
+}
+
+.pillar-card p {
+  font-size: 0.95em;
+  line-height: 1.6;
+  color: #475569;
+  margin-bottom: 1em;
+  flex-grow: 1;
+}
+
+.pillar-tags, .project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-top: 0.5em;
+}
+
+.tag {
+  font-size: 0.75em;
+  font-weight: 600;
+  background: #f1f5f9;
+  color: #475569;
+  padding: 3px 8px;
+  border-radius: 4px;
+  border: 1px solid #e2e8f0;
+}
+
+/* Pillar Mini Cards (Projects page) */
+.research-pillars-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1em;
+  margin: 1.2em 0 2em 0;
+}
+
+.pillar-mini-card {
+  background: #f8fafc;
+  border-top: 3px solid #0284c7;
+  border-radius: 6px;
+  padding: 1em;
+  border-left: 1px solid #e2e8f0;
+  border-right: 1px solid #e2e8f0;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.pillar-mini-card h4 {
+  margin: 0 0 0.4em 0;
+  font-size: 1em;
+  color: #0f172a;
+}
+
+.pillar-mini-card p {
+  margin: 0;
+  font-size: 0.85em;
+  color: #64748b;
+  line-height: 1.4;
+}
+
+/* Awards and Badges */
+.award-highlights-banner {
+  background: #fffbeb;
+  border: 1px solid #fef3c7;
+  border-left: 4px solid #f59e0b;
+  border-radius: 6px;
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+}
+
+.award-highlights-banner ul {
+  margin: 0.5em 0 0 1.2em;
+  padding: 0;
+}
+
+.award-highlights-banner li {
+  margin-bottom: 0.3em;
+  color: #78350f;
+}
+
+.award-pill {
+  display: inline-block;
+  background: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fde68a;
+  border-radius: 20px;
+  padding: 3px 10px;
+  font-size: 0.82em;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+}
+
+.badge-award {
+  display: inline-block;
+  background: #f0fdf4;
+  color: #166534;
+  border: 1px solid #bbf7d0;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 0.8em;
+  font-weight: 600;
+  margin-right: 0.5em;
+}
+
+.project-pillar-badge {
+  display: inline-block;
+  background: #eff6ff;
+  color: #1d4ed8;
+  border: 1px solid #dbeafe;
+  border-radius: 4px;
+  padding: 3px 10px;
+  font-size: 0.85em;
+  margin-bottom: 1em;
+}
+
+/* Featured Publications List */
+.featured-pubs-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2em;
+  margin: 1.5em 0;
+}
+
+.featured-pub-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 1.2em;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  transition: all 0.2s ease;
+}
+
+.featured-pub-card:hover {
+  border-color: #94a3b8;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.08);
+}
+
+.featured-pub-card h4 {
+  margin: 0.3em 0;
+  font-size: 1.1em;
+  line-height: 1.4;
+}
+
+.featured-pub-card .pub-authors {
+  font-size: 0.9em;
+  color: #475569;
+  margin: 0.2em 0;
+}
+
+.featured-pub-card .pub-venue {
+  font-size: 0.88em;
+  color: #0369a1;
+  margin: 0.2em 0 0.5em 0;
+}
+
+.featured-pub-card .pub-summary {
+  font-size: 0.9em;
+  color: #64748b;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Archive List Enhancements */
+.archive__item {
+  border-bottom: 1px solid #e2e8f0;
+  padding-bottom: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.archive__item-title {
+  font-size: 1.25em !important;
+  margin-top: 0 !important;
+  margin-bottom: 0.3em !important;
+  line-height: 1.35 !important;
+}
+
+.archive__item-venue {
+  color: #0284c7;
+  font-size: 0.95em;
+  margin: 0.2em 0 0.5em 0;
+}
+
+.archive__item-citation {
+  background: #f8fafc;
+  padding: 0.6em 0.8em;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 4px;
+  margin-top: 0.6em;
+}
+
+.paper-link-btn {
+  display: inline-block;
+  margin-left: 0.5em;
+  padding: 2px 8px;
+  background: #0284c7;
+  color: #ffffff !important;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.85em;
+}
+
+.paper-link-btn:hover {
+  background: #0369a1;
+  text-decoration: none;
+}
+
+/* CV Header Actions */
+.cv-header-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-bottom: 2em;
+  padding: 1em;
+  background: #f1f5f9;
+  border-radius: 8px;
+  align-items: center;
+}
+
+.cv-header-actions .btn {
+  margin: 0 !important;
+}
+
+/* Author Profile Sidebar Polishing */
+.author__avatar img {
+  border-radius: 50%;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  border: 3px solid #ffffff;
+}
+
+.author__name {
+  font-size: 1.2em;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.author__bio {
+  font-size: 0.88em;
+  line-height: 1.45;
+  color: #475569;
+}
+
+.author__urls li {
+  font-size: 0.88em;
+  margin-bottom: 0.3em;
+}

@@ -1,12 +1,30 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Research Systems & Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+<p class="intro-text">
+  A showcase of research prototypes, production AI systems, and open-source tools spanning <strong>Sequential Decision Making</strong>, <strong>Human-AI Interaction</strong>, and <strong>Hybrid-Agent Systems</strong>.
+</p>
 
+<div class="research-pillars-summary">
+  <div class="pillar-mini-card">
+    <h4><i class="fa fa-random"></i> Sequential Decision Making</h4>
+    <p>Automated planning, MDPs, makespan scheduling under uncertainty, and constrained diffusion.</p>
+  </div>
+  <div class="pillar-mini-card">
+    <h4><i class="fa fa-users"></i> Human-AI Interaction</h4>
+    <p>Cognitive modeling, state aliasing, safe algorithmic recourse, and human-aware teaming.</p>
+  </div>
+  <div class="pillar-mini-card">
+    <h4><i class="fa fa-cogs"></i> Hybrid-Agent Systems</h4>
+    <p>LLM + automated planners (TRIP-PAL, GenPlanX), multi-hop synthetic data, and Pyodide agents.</p>
+  </div>
+</div>
+
+{% include base_path %}
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}

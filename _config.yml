@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UNRAVEL"
-title_separator          : "-"
-name                     : &name "Ram (Sriram Gopalakrishnan)"
-description              : &description "Blog and Portfolio"
+title                    : "Sriram Gopalakrishnan, Ph.D."
+title_separator          : "|"
+name                     : &name "Sriram Gopalakrishnan"
+description              : &description "AI Research Lead at J.P. Morgan Chase | Human-AI Interaction, Automated Planning & Generative AI"
 url                      : https://marirsg2.github.io/Sriram_Unravel/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "marirsg2/Sriram_Unravel.github.io"
+repository               : "marirsg2/Sriram_Unravel"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,38 +57,42 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "SriramGopalakr3"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "images/Sriram_profilePic.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Sriram Gopalakrishnan"
+  links:
+    - https://scholar.google.com/citations?user=So86Wl4AAAAJ&hl=en
+    - https://www.linkedin.com/in/sriram-gopalakrishnan-7a07b727
+    - https://github.com/marirsg2
+    - https://twitter.com/SriramGopalakr3
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Sriram Gopalakrishnan"
+  name             : "Sriram Gopalakrishnan, Ph.D."
   avatar           : "Sriram_profilePic.jpg"
-  bio              : "AI Research Scientist"
-  location         : "JP Morgan Chase, US"
-  employer         :
-  pubmed           : #"https://marirsg2.github.io/Sriram_Unravel/"
+  bio              : "AI Research Lead at J.P. Morgan Chase | Human-AI Interaction, Automated Planning & Generative AI"
+  location         : "New York, NY, USA"
+  employer         : "J.P. Morgan Chase"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=So86Wl4AAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "marirsg@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +104,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "sriram-gopalakrishnan-7a07b727"
-  orcid            : #"https://marirsg2.github.io/Sriram_Unravel/"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    :  "5870212/sriram-gopalakrishnan"
+  stackoverflow    : "5870212/sriram-gopalakrishnan"
   steam            :
   tumblr           :
-  twitter          : "@SriramGopalakr3"
+  twitter          : "SriramGopalakr3"
   vine             :
   weibo            :
   xing             :
