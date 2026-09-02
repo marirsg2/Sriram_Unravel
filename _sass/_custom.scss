@@ -363,3 +363,31 @@
   display: inline-block;
   vertical-align: middle;
 }
+
+.author-icon-wrap {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.25em;
+  height: 1em;
+  vertical-align: -0.15em;
+  margin-right: 0.25em;
+}
+
+.footer-icon-wrap {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  margin-right: 0.25em;
+}
+
+.x-logo-svg {
+  width: 13px !important;
+  height: 13px !important;
+  fill: currentColor !important;
+  display: inline-block;
+  vertical-align: middle;
+}
