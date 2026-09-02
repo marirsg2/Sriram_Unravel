@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Sriram Gopalakrishnan, Ph.D."
 excerpt: "AI Research Lead at J.P. Morgan Chase specializing in Sequential Decision Making, Human-AI Interaction, and Hybrid-Agent Systems."
 author_profile: true
 redirect_from:
