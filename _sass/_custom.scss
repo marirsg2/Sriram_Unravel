@@ -1,4 +1,4 @@
-﻿/* ==========================================================================
+/* ==========================================================================
    Custom Enhanced Styling for Sriram Gopalakrishnan's Personal Website
    Focus: Sequential Decision Making, Human-AI Interaction & Hybrid-Agent Systems
    ========================================================================== */
@@ -341,4 +341,11 @@
 .author__urls li {
   font-size: 0.88em;
   margin-bottom: 0.3em;
+}
+
+.location-pin {
+  color: #ea4335 !important; /* Standard Google red location pin color */
+  font-size: 1.1em;
+  display: inline-block;
+  vertical-align: middle;
 }
