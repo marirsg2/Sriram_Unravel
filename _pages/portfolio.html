@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+{% include base_path %}
+
 <p class="intro-text">
   A showcase of research prototypes, production AI systems, and open-source tools spanning <strong>Sequential Decision
     Making</strong>, <strong>Human-AI Interaction</strong>, and <strong>Hybrid-Agent Systems</strong>.
@@ -30,8 +32,6 @@ author_profile: true
       Reasoning Agents, Diffusion Models with Constrained Optimization, Secure agents in Pyodide.</p>
   </div>
 </div>
-
-{% include base_path %}
 
 {% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
 {% for post in sorted_portfolio %}

@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 <div class="hero-intro">
   <p class="lead-bio">
     I am an <strong>AI Research Lead</strong> at <strong>J.P. Morgan Chase</strong> (AI Research Team). I completed my Ph.D. in Computer Science at <a href="https://www.asu.edu/" target="_blank">Arizona State University</a> in the <a href="https://yochan-lab.github.io/home/" target="_blank">Yochan Lab</a> under <a href="http://rakaposhi.eas.asu.edu/" target="_blank">Prof. Subbarao (Rao) Kambhampati</a>.
