@@ -124,7 +124,7 @@ redirect_from:
     <h4><a href="{{ base_path }}/publication/2024-06-15-trip-pal-travel-planning-llm-planners">TRIP-PAL: Travel Planning with Guarantees by Combining Large Language Models and Automated Planners</a></h4>
     <p class="pub-authors">Tomas de la Rosa, <strong>Sriram Gopalakrishnan</strong>, Alberto Pozanco, Zhen Zeng, Daniel Borrajo</p>
     <p class="pub-venue"><em>arXiv preprint arXiv:2406.10196</em></p>
-    <p class="pub-summary">Combines LLMs for rich preference extraction with symbolic automated planners to guarantee 100% valid, constraint-satisfying travel itineraries.</p>
+    <p class="pub-summary">One of the first papers to combines LLMs for rich preference extraction with symbolic automated planners to generated valid, constraint-satisfying travel itineraries.</p>
   </div>
 
 </div>
