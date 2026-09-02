@@ -14,13 +14,9 @@ redirect_from:
   </p>
   <p class="tagline">
     My work focuses on <strong>Sequential Decision Making</strong>, <strong>Human-AI Interaction</strong>, and <strong>Hybrid-Agent Systems</strong> that unify generative models (LLMs, diffusion) with classical reasoning (automated planning, formal constraints, and optimization).
+  <p class="cv-link-container">
+    <a href="{{ base_path }}/files/Resume_Latest.pdf" target="_blank" class="cv-hyperlink"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Curriculum Vitae</a>
   </p>
-  <div class="hero-buttons">
-    <a href="{{ base_path }}/publications/" class="btn btn--primary"><i class="fa fa-book"></i> Publications</a>
-    <a href="{{ base_path }}/portfolio/" class="btn btn--info"><i class="fa fa-cubes"></i> Research & Projects</a>
-    <a href="{{ base_path }}/resume/" class="btn btn--inverse"><i class="fa fa-file-text-o"></i> Curriculum Vitae</a>
-    <a href="https://scholar.google.com/citations?user=So86Wl4AAAAJ&hl=en" target="_blank" class="btn btn--success"><i class="fa fa-graduation-cap"></i> Google Scholar</a>
-  </div>
 </div>
 
 ---

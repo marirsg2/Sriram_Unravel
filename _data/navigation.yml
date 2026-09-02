@@ -3,15 +3,6 @@ main:
   - title: "About"
     url: /
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research & Projects"
     url: /portfolio/
-
-  - title: "Resume / CV"
-    url: /resume/
-
-  - title: "Talks"
-    url: /talks/
 
