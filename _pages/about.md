@@ -101,6 +101,14 @@ redirect_from:
   </div>
 
   <div class="featured-pub-card">
+    <div class="award-pill"><i class="fa fa-database"></i> 📊 Synthetic Data & Reasoning (NeurIPS 2025)</div>
+    <h4><a href="{{ base_path }}/publication/2025-12-10-domain-specific-sat-reasoning-datasets-neurips">Generating Domain Specific Natural Language SAT Reasoning Datasets</a></h4>
+    <p class="pub-authors">Subhabrata Patra, Kaushik Ramani, Daniel Borrajo, <strong>Sriram Gopalakrishnan</strong></p>
+    <p class="pub-venue"><em>Workshop on Efficient Reasoning at the Conference on Neural Information Processing Systems (NeurIPS 2025)</em></p>
+    <p class="pub-summary">Introduces programmatic synthesis pipelines to translate Boolean satisfiability (SAT) problem instances into natural language narratives for benchmarking multi-hop logical deduction in LLMs.</p>
+  </div>
+
+  <div class="featured-pub-card">
     <div class="award-pill"><i class="fa fa-trophy"></i> 🎙️ Oral Presentation (Top 2% of accepted papers)</div>
     <h4><a href="{{ base_path }}/publication/2024-02-20-safear-towards-safer-algorithmic-recourse">SafeAR: Towards Safer Algorithmic Recourse by Risk-Aware Policies</a></h4>
     <p class="pub-authors">Haoming Wu, Sriram Sharma, Subhabrata Patra, <strong>Sriram Gopalakrishnan</strong></p>
