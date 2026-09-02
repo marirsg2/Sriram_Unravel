@@ -14,14 +14,15 @@ redirect_from:
   </p>
   <p class="tagline">
     My work focuses on <strong>Sequential Decision Making</strong>, <strong>Human-AI Interaction</strong>, and <strong>Hybrid-Agent Systems</strong> that unify generative models (LLMs, diffusion) with classical reasoning (automated planning, formal constraints, and optimization).
+  </p>
   <p class="cv-link-container">
     <a href="{{ base_path }}/files/Resume_Latest.pdf" target="_blank" class="cv-hyperlink"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Curriculum Vitae</a>
   </p>
 </div>
 
----
+<hr />
 
-## 🎯 Core Research Focus
+<h2>🎯 Core Research Focus</h2>
 
 <div class="research-pillars-grid">
 
@@ -75,9 +76,9 @@ redirect_from:
 
 </div>
 
----
+<hr />
 
-## 🏆 Selected News & Recognitions
+<h2>🏆 Selected News & Recognitions</h2>
 
 * <span class="badge-award">ICAPS 2026</span> Paper on orchestrating generative AI agents: <em>"The curious case of planning for unreliable agents: Challenges and opportunities in orchestrating generative AI agents"</em> (Planning in the Era of LLMs).
 * <span class="badge-award">US Patents</span> Granted US Patents No. **12,602,020** (Load Control & Occupant Tracking), **12,475,133** (Multi-Modal Time-Series Retrieval), and **12,127,317** (Load Control Protocol).
@@ -86,9 +87,9 @@ redirect_from:
 * <span class="badge-award">Best Industry Paper 🏆</span> Winner of the <strong>Best Industry Paper Award</strong> at the ACM International Conference on AI in Finance (ICAIF 2023) for multi-modal time-series retrieval.
 * <span class="badge-award">DARPA SAIL-ON</span> 🎖️ AI agent was the <strong>Top Performer</strong> in the DARPA SAIL-ON program for novelty handling in the open-world Monopoly domain.
 
----
+<hr />
 
-## 🔬 Featured Publications
+<h2>🔬 Featured Publications</h2>
 
 <div class="featured-pubs-list">
 
