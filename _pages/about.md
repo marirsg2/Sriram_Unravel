@@ -94,6 +94,14 @@ redirect_from:
 <div class="featured-pubs-list">
 
   <div class="featured-pub-card">
+    <div class="award-pill"><i class="fa fa-sparkles"></i> 🤖 Hybrid Agents & Planning (ICAPS 2026)</div>
+    <h4><a href="{{ base_path }}/publication/2026-06-01-curious-case-planning-unreliable-agents-icaps">The Curious Case of Planning for Unreliable Agents: Challenges and Opportunities in Orchestrating Generative AI Agents</a></h4>
+    <p class="pub-authors">Roya Daneshi, Subhabrata Patra, Keerthana Dwarakanath, <strong>Sriram Gopalakrishnan</strong>, Daniel Borrajo, Sarath Sreedharan</p>
+    <p class="pub-venue"><em>Workshop on Planning in the Era of LLMs at the International Conference on Automated Planning and Scheduling (ICAPS-26)</em></p>
+    <p class="pub-summary">Investigates orchestrating swarms of stochastic, unreliable generative AI agents using symbolic automated planners with formal recovery and dynamic replanning.</p>
+  </div>
+
+  <div class="featured-pub-card">
     <div class="award-pill"><i class="fa fa-trophy"></i> 🎙️ Oral Presentation (Top 2% of accepted papers)</div>
     <h4><a href="{{ base_path }}/publication/2024-02-20-safear-towards-safer-algorithmic-recourse">SafeAR: Towards Safer Algorithmic Recourse by Risk-Aware Policies</a></h4>
     <p class="pub-authors">Haoming Wu, Sriram Sharma, Subhabrata Patra, <strong>Sriram Gopalakrishnan</strong></p>
