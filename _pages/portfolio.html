@@ -6,27 +6,29 @@ author_profile: true
 ---
 
 <p class="intro-text">
-  A showcase of research prototypes, production AI systems, and open-source tools spanning <strong>Sequential Decision Making</strong>, <strong>Human-AI Interaction</strong>, and <strong>Hybrid-Agent Systems</strong>.
+  A showcase of research prototypes, production AI systems, and open-source tools spanning <strong>Sequential Decision
+    Making</strong>, <strong>Human-AI Interaction</strong>, and <strong>Hybrid-Agent Systems</strong>.
 </p>
 
 <div class="research-pillars-summary">
   <div class="pillar-mini-card">
     <h4><i class="fa fa-random"></i> Sequential Decision Making</h4>
-    <p>Automated planning, MDPs, makespan scheduling under uncertainty, and constrained diffusion.</p>
+    <p>Automated Planning and Scheduling, Markov Decision Processes, Reinforcement Learning, Search Algorithms.
+    </p>
   </div>
   <div class="pillar-mini-card">
     <h4><i class="fa fa-users"></i> Human-AI Interaction</h4>
-    <p>Cognitive modeling, state aliasing, safe algorithmic recourse, and human-aware teaming.</p>
+    <p>Cognitive Modeling, Human-Policy Generation, Human-Aware Teaming.</p>
   </div>
   <div class="pillar-mini-card">
     <h4><i class="fa fa-cogs"></i> Hybrid-Agent Systems</h4>
-    <p>LLM + automated planners (TRIP-PAL, GenPlanX), multi-hop synthetic data, and Pyodide agents.</p>
+    <p>Large Language Models + Automated Planners (TRIP-PAL and GenPlanX), Multi-hop Synthetic Data for Logical
+      Reasoning Agents, Diffusion Models with Constrained Optimization, Secure agents in Pyodide.</p>
   </div>
 </div>
 
 {% include base_path %}
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% include archive-single.html %}
 {% endfor %}
-
