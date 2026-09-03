@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="hero-intro">
   <p class="lead-bio">
-    I am an <strong>AI Research Lead</strong> at <strong>J.P. Morgan Chase</strong> (AI Research Team). I completed my Ph.D. in Computer Science at <a href="https://www.asu.edu/" target="_blank">Arizona State University</a> in the <a href="https://yochan-lab.github.io/home/" target="_blank">Yochan Lab</a> under <a href="http://rakaposhi.eas.asu.edu/" target="_blank">Prof. Subbarao (Rao) Kambhampati</a>.
+    I am an <strong>AI Research Lead</strong> at <strong>J.P. Morgan Chase</strong> (AI Research Team). I completed my Computer Science Ph.D. in 2022 at <a href="https://www.asu.edu/" target="_blank">Arizona State University</a> in the <a href="https://yochan-lab.github.io/home/" target="_blank">Yochan Lab</a> under <a href="http://rakaposhi.eas.asu.edu/" target="_blank">Prof. Subbarao (Rao) Kambhampati</a>.
   </p>
   <p class="tagline">
     My work focuses on <strong>Sequential Decision Making</strong>, <strong>Human-AI Interaction</strong>, and <strong>Hybrid-Agent Systems</strong> that unify generative models (LLMs, diffusion) with classical reasoning (automated planning, formal constraints, and optimization).
