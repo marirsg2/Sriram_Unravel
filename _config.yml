@@ -57,7 +57,8 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "SriramGopalakr3"
+  username               :
+  # username               : &twitter "SriramGopalakr3"
 facebook:
   username               :
   app_id                 :
@@ -71,8 +72,8 @@ social:
   links:
     - https://scholar.google.com/citations?user=So86Wl4AAAAJ&hl=en
     - https://www.linkedin.com/in/sriram-gopalakrishnan-7a07b727
-    - https://github.com/marirsg2
-    - https://x.com/SriramGopalakr3
+    # - https://github.com/marirsg2
+    # - https://x.com/SriramGopalakr3
 
 
 # Analytics
@@ -100,7 +101,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "marirsg2"
+  # github           : "marirsg2"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,10 +111,10 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "5870212/sriram-gopalakrishnan"
+  # stackoverflow    : "5870212/sriram-gopalakrishnan"
   steam            :
   tumblr           :
-  twitter          : "SriramGopalakr3"
+  # twitter          : "SriramGopalakr3"
   vine             :
   weibo            :
   xing             :
